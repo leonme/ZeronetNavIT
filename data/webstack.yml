@@ -70,6 +70,10 @@
       logo: dnspod.ico
       url: https://nas.zeronet.ltd:5101
       description: DNSPod控制台
+    - title: DNSPod2 2 2
+      logo: dnspod.ico
+      url: https://nas.zeronet.ltd:5101
+      description: DNSPod控制台 2 2 2
       
 
 - taxonomy: 常用推荐
