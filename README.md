@@ -11,7 +11,7 @@ $ git clone https://github.com/shenweiyan/NavBioIT.git
 $ cd NavBioIT
 $ git submodule update --init --recursive
 $ cd themes/WebStack-Hugo
-$ git pull https://github.com/shenweiyan/WebStack-Hugo.git
+$ git pull https://github.com/leonme/WebStack-Hugo.git
 ```
 
 ### 发布站点

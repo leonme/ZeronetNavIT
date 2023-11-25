@@ -44,7 +44,7 @@ jobs:
       - name: Deploy To WebStackBioIT    
         uses: peaceiris/actions-gh-pages@v3	
         with:
-          external_repository: shenweiyan/WebStackBioIT
+          external_repository: leonme/ZeronetNavIT
           personal_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}	
           publish_dir: ./public	
           publish_branch: master	
