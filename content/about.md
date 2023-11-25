@@ -23,11 +23,11 @@ WebStack 有非常多的魔改版本，这是其中一个。如果你对本主�
 
 #### 主题开源地址
 
-[https://github.com/shenweiyan/webstack-hugo](https://github.com/shenweiyan/webstack-hugo)
+[https://github.com/leonme/webstack-hugo](https://github.com/leonme/webstack-hugo)
 
 <br/>
 
 #### 主题演示地址
 
 - [https://nav.bioitee.com](https://nav.bioitee.com)
-- [https://shenweiyan.github.io/webstack-hugo](https://shenweiyan.github.io/webstack-hugo)
+- [https://leonme.github.io/webstack-hugo](https://leonme.github.io/webstack-hugo)

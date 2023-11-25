@@ -1,13 +1,13 @@
 # WebStack-Hugo 导航站点
 
-本项目是基于 [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) 静态响应式网址导航主题，打造的的**个人定制版本**。
+本项目是基于 [WebStack-Hugo](https://github.com/leonme/WebStack-Hugo) 静态响应式网址导航主题，打造的的**个人定制版本**。
 
 ### 安装部署
 
 下载更新，更新子模块。
 
 ```
-$ git clone https://github.com/shenweiyan/NavBioIT.git
+$ git clone https://github.com/leonme/NavBioIT.git
 $ cd NavBioIT
 $ git submodule update --init --recursive
 $ cd themes/WebStack-Hugo

@@ -19,7 +19,7 @@ jobs:
             git branch --track ${branch##*/} $branch
           done
         env:
-          GITHUB_REPOSITORY: shenweiyan/NavBioITee
+          GITHUB_REPOSITORY: leonme/NavBioITee
           GITHUB_USERNAME: ${{ secrets.GH_USERNAME }}
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           
@@ -34,7 +34,7 @@ jobs:
           #git push --all --force coding
           #git push --tags --force coding
         env:
-          CODING_REPOSITORY: shenweiyan/webstack/nav.bioitee.src
+          CODING_REPOSITORY: leonme/webstack/nav.bioitee.src
           CODING_USERNAME: ${{ secrets.CODING_USERNAME }}
           CODING_PASSWORD: ${{ secrets.CODING_PASSWORD }}
           
@@ -49,6 +49,6 @@ jobs:
           git push --all --force gitee
           git push --tags --force gitee
         env:
-          GITEE_REPOSITORY: shenweiyan/NavBioIT
+          GITEE_REPOSITORY: leonme/NavBioIT
           GITEE_USERNAME: ${{ secrets.GITEE_USERNAME }}
           GITEE_PASSWORD: ${{ secrets.GITEE_PASSWORD }}
