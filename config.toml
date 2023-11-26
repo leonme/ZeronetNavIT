@@ -1,4 +1,4 @@
-baseURL               = "https://bioit.top"
+baseURL               = "http://pages.zeronet.ltd/ZeronetNavIT/"
 languageCode          = "zh-CN"
 title                 = "Zeronet 网址导航"
 theme                 = "WebStack-Hugo"
