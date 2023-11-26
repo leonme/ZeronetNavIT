@@ -81,7 +81,7 @@
     - title: nastool
       logo: nastool.png
       url: https://nas.zeronet.ltd:5014/
-      description: NAS媒体库管理工具: wiki.nastool.org
+      description: NAS媒体库管理工具 wiki.nastool.org
     - title: qBittorrent
       logo: qbittorrent.svg
       url: https://nas.zeronet.ltd:5016/
