@@ -1,30 +1,43 @@
-# WebStack-Hugo 导航站点
 
-本项目是基于 [WebStack-Hugo](https://github.com/leonme/WebStack-Hugo) 静态响应式网址导航主题，打造的的**个人定制版本**。
+# Zeronet 导航页面
 
-### 安装部署
+## 基本信息
+
+本项目是基于 [WebStack-Hugo](https://github.com/leonme/WebStack-Hugo) 静态响应式网址导航主题，打造的的个人定制版本。
+
+### Github源代码
+
+* [leonme/WebStack-Hugo](https://github.com/leonme/WebStack-Hugo)： 本项目是基于纯静态的网址导航网站 webstack.cc 制作的 Hugo 主题，是一个基于 Hugo 的静态响应式网址导航主题。
+* [leonme/ZeronetNavIT](https://github.com/leonme/ZeronetNavIT)： 本项目是基于 WebStack-Hugo 静态响应式网址导航主题，打造的的个人定制版本。
+
+## 如何更新导航页面
 
 下载更新，更新子模块。
-
-```
-$ git clone https://github.com/leonme/NavBioIT.git
+```shell
+$ git clone https://github.com/leonme/ZeronetNavIT.git
 $ cd NavBioIT
 $ git submodule update --init --recursive
 $ cd themes/WebStack-Hugo
 $ git pull https://github.com/leonme/WebStack-Hugo.git
 ```
 
-### 发布站点
+直接修改 /content 下的内容
 
-通过 GitHub Actions - [HugoAction.yml](https://github.com/leonme/ZeronetNavIT/blob/main/.github/workflows/HugoAction.yml)，本源码执行自动构建，并发布到以下仓库。
+WebStack-Hugo 在ZeronetNavIT的theams下作为一个submodule
+
+icon存在 [leonme/WebStack-Hugo](https://github.com/leonme/WebStack-Hugo) /static/assets/images/logos
+
+在Intellij中直接修改ZeronetNavIT或者WebStack-Hugo，Commit Push的时候一起提交
 
 
-1. 发布至 GitHub 的 **[ZeronetNavIT](https://github.com/leonme/ZeronetNavIT)** 可通过以下自定义域名访问；
+## Github Action Automation
 
-   - **[https://www.zeronet.ltd](https://www.zeronet.ltd)**
+本项目已实现Github Automation自动部署到`www.zeronet.ltd`自定义域名下的Github Pages
 
-2. 发布至 GitHub 的 **[WebStackBioIT](https://github.com/leonme/WebStackBioIT)**，该仓库 master 分支与 Cloudflare 的 **[biox.pages.dev](https://biox.pages.dev/)** 进行绑定；
+Refer to: https://github.com/leonme/ZeronetNavIT/blob/main/.github/workflows/HugoAction.yml
 
-### 站点地址
+当有新的Commit到main branch后，Action自动运行并发布部署
+
+## 站点地址
 
 - **[https://www.zeronet.ltd](https://www.zeronet.ltd)**
