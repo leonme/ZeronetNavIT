@@ -1,6 +1,8 @@
 
 # Zeronet 导航页面
 
+![HugoAction](https://github.com/leonme/ZeronetNavIT/actions/workflows/HugoAction.yml/badge.svg)
+
 ## 基本信息
 
 本项目是基于 [WebStack-Hugo](https://github.com/leonme/WebStack-Hugo) 静态响应式网址导航主题，打造的的个人定制版本。
