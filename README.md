@@ -19,7 +19,7 @@ $ git pull https://github.com/leonme/WebStack-Hugo.git
 通过 GitHub Actions - [HugoAction.yml](https://github.com/leonme/ZeronetNavIT/blob/main/.github/workflows/HugoAction.yml)，本源码执行自动构建，并发布到以下仓库。
 
 
-1. 发布至 GitHub 的 **[NavBioIT](https://github.com/leonme/ZeronetNavIT)** 可通过以下自定义域名访问；
+1. 发布至 GitHub 的 **[ZeronetNavIT](https://github.com/leonme/ZeronetNavIT)** 可通过以下自定义域名访问；
 
    - **[https://www.zeronet.ltd](https://www.zeronet.ltd)**
 

@@ -11,6 +11,6 @@
   link: ""
   list:
     - name: 源码
-      url: "#"
-    - name: 图标
-      url: "#"
+      url: "https://github.com/shenweiyan/NavBioIT"
+    - name: WebStack-Hugo
+      url: "https://github.com/shenweiyan/WebStack-Hugo"
