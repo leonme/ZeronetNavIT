@@ -90,7 +90,10 @@
       logo: qbittorrent.svg
       url: https://nas.zeronet.ltd:5016/
       description: qBittorrent 下载器| 下载管理工具
-
+    - title: Jackett
+      logo:
+      url: https://nas.zeronet.ltd:5018/
+      description: Jackett 索引器| Public资源索引器
 
 - taxonomy: 站点建设
   icon: far fa-star
