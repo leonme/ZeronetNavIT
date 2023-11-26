@@ -70,10 +70,10 @@
       logo: dnspod.ico
       url: https://nas.zeronet.ltd:5101
       description: DNSPod控制台
-    - title: DNSPod update1
-      logo: dnspod.ico
-      url: https://nas.zeronet.ltd:5101
-      description: DNSPod控制台 uptest1 test
+    - title: 为知笔记 | WizNotes
+      logo: WizNote-logo.png
+      url: https://nas.zeronet.ltd:5112/
+      description: 提供Markdown、代码块等专业编辑能力. - 支持从本地上传各类文件，实时在线预览. - 第三方平台内容可一键保存到对应笔记内. 免费试用. 记录万事，构建可视化知识图谱.
       
 
 - taxonomy: 常用推荐
