@@ -10,6 +10,10 @@
       logo: miwifi.png 
       url: http://miwifi.com/
       description: 无线网络管理
+    - title: 个人博客
+      logo:
+      url: http://pages.zeronet.ltd/pages/blogs/websites/
+      description: 无线网络管理
     - title: File Station
       logo: file.png 
       url: https://nas.zeronet.ltd:5104
@@ -66,27 +70,43 @@
       logo: calendar.png
       url: https://nas.zeronet.ltd:5101
       description: 日程管理
-    - title: DNSPod
-      logo: dnspod.ico
-      url: https://nas.zeronet.ltd:5101
-      description: DNSPod控制台
     - title: 为知笔记 | WizNotes
       logo: WizNote-logo.png
       url: https://nas.zeronet.ltd:5112/
       description: 提供Markdown、代码块等专业编辑能力. - 支持从本地上传各类文件，实时在线预览. - 第三方平台内容可一键保存到对应笔记内. 免费试用. 记录万事，构建可视化知识图谱.
-      
+    - title: Jellyfin
+      logo: jellyfin-icon.svg
+      url: https://nas.zeronet.ltd:5015
+      description: Zeronet NAS 上提供家庭影音服务
+    - title: nastool
+      logo: nastool.png
+      url: https://nas.zeronet.ltd:5014/
+      description: NAS媒体库管理工具: wiki.nastool.org
+    - title: qBittorrent
+      logo: qbittorrent.svg
+      url: https://nas.zeronet.ltd:5016/
+      description: qBittorrent 下载器| 下载管理工具
 
-- taxonomy: 常用推荐
+
+- taxonomy: 站点建设
   icon: far fa-star
-  links: 
+  links:
+    - title: DNSPod | 域名解析
+      logo: dnspod.ico
+      url: https://console.dnspod.cn/dns/zeronet.ltd/record
+      description: 腾讯云控制台
+    - title: HD Dolby PT站点
+      logo: hddolby.png
+      url: https://www.hddolby.com
+      description: HD Dolby PT 站点
     - title: 语雀
       logo: 语雀.jpg
       url: https://www.yuque.com/
       description: 专业的云端知识库。
-    - title: QQ 邮箱
+    - title: 126 邮箱
       logo: qq邮箱.png
-      url: http://mail.qq.com/
-      description: 腾讯 QQ 邮箱。
+      url: http://mail.126.com/
+      description: 126 QQ 邮箱。
     - title: 开源中国
       logo: 开源中国.jpg
       url: https://www.oschina.net/
