@@ -10,6 +10,10 @@
       logo: miwifi.png 
       url: http://miwifi.com/
       description: 无线网络管理
+    - title: OpenWrt
+      logo: openwrt.svg
+      url: https://nas.zeronet.ltd:5017/
+      description: OpenWrt 旁路有管理系统
     - title: 个人博客
       logo:
       url: http://pages.zeronet.ltd/pages/blogs/websites/
@@ -99,6 +103,10 @@
       logo: hddolby.png
       url: https://www.hddolby.com
       description: HD Dolby PT 站点
+    - title: Passwall2
+      logo: passwall2.png
+      url: https://passwall2.org/passwall2-node/
+      description: Passwall2 免费站点。
     - title: 126 邮箱
       logo: qq邮箱.png
       url: http://mail.126.com/
@@ -115,10 +123,15 @@
       logo: 知乎.png
       url: https://www.zhihu.com/
       description: 知乎社区。
+    - title: 我不是矿神
+      logo:
+      url: https://imnks.com/
+      description: NAS 矿神的网站
     - title: Hugo 配置
       logo:
       url: https://www.gohugo.org/doc/overview/configuration/
       description: 怎么来配置Hugo
+
 
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
