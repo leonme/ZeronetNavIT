@@ -115,7 +115,10 @@
       logo: 知乎.png
       url: https://www.zhihu.com/
       description: 知乎社区。
-
+    - title: Hugo 配置
+      logo:
+      url: https://www.gohugo.org/doc/overview/configuration/
+      description: 怎么来配置Hugo
 
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
