@@ -1,4 +1,4 @@
-baseURL               = "http://www.zeronet.ltd/"
+baseURL               = "https://www.zeronet.ltd/"
 languageCode          = "zh-CN"
 title                 = "Zeronet 网址导航"
 theme                 = "WebStack-Hugo"
