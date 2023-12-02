@@ -116,6 +116,10 @@
       logo: passwall2.png
       url: https://passwall2.org/passwall2-node/
       description: Passwall2 免费站点。
+    - title: 大哥云机场
+      logo:
+      url: https://www.ab12y.com/#/dashboard
+      description: 大哥云机场网站
     - title: 126 邮箱
       logo: qq邮箱.png
       url: http://mail.126.com/
